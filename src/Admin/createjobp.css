@@ -1,0 +1,50 @@
+.first {
+  display: flex;
+  flex-wrap: wrap;
+}
+.firs {
+  flex: 1 1 calc(33.333% - 16px);
+  box-sizing: border-box;
+  padding: 8px;
+}
+.second {
+  display: flex;
+  flex-wrap: wrap;
+}
+.secs {
+  flex: 1 1 calc(33.333% - 16px);
+  box-sizing: border-box;
+  padding: 8px;
+  max-width: 200px;
+}
+.third {
+  display: flex;
+  flex-wrap: wrap;
+}
+.three {
+  flex: 1 1 calc(33.333% - 16px);
+  box-sizing: border-box;
+  padding: 8px;
+}
+.fourth {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.four {
+  flex: 1 1 calc(33.333% - 16px);
+  box-sizing: border-box;
+  padding: 8px;
+  max-width: 200px;
+}
+.fifth {
+  display: flex;
+  flex-wrap: wrap;
+}
+.fif {
+  flex: 1 1 calc(33.333% - 16px);
+  box-sizing: border-box;
+  padding: 8px;
+  max-width: 200px;
+}
